@@ -1,4 +1,4 @@
-# European Union Countries Codes
+# European Union Country Codes
 
 Source : https://www.iban.com/country-codes
 

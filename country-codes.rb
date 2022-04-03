@@ -30,3 +30,31 @@ eu_countries_codes_details = {
     "SE": "Sweden"
 }
 
+eu_countries_codes_VAT_rate_high = {
+    "BE": 21,
+    "FR": 20,
+    "AT": 20,
+    "BG": 20,
+    "IT": 22,
+    "PL": 23,
+    "CZ": 21,
+    "PT": 23,
+    "DK": 25,
+    "LV": 21,
+    "RO": 19,
+    "DE": 19,
+    "LT": 21,
+    "SI": 22,
+    "EE": 20,
+    "LU": 17,
+    "SK": 20,
+    "IE": 23,
+    "HU": 27,
+    "FI": 24,
+    "EL": 24,
+    "SE": 25,
+    "ES": 21,
+    "NL": 21,
+    "MT": 18,
+    "CY": 19
+}
